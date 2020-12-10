@@ -1,4 +1,4 @@
-# CIE Checker
+# CIE Checker and Generator
 
 This is a program that i was creating with a Dominican partner called **RedSpoof**,this script contain 2 modules, one that use to check is a CIE is correct passing it through the luhn calc, and the other use the first module to generate CIE.
 
