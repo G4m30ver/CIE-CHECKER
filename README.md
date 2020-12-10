@@ -40,7 +40,7 @@ python3 CIE.py -C XXXXXXXXXXX
 ### Generate Cedula
 
 ```python
-$ python3 CIE.py -G  
+$ python3 CIE.py --generate
 
 40230895009 : is valid
 40230006701 : is not valid
