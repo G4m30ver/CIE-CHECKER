@@ -20,7 +20,7 @@ You need to have [pip](https://pip.pypa.io/en/stable/installing/) installed to b
 ### Help Menu
 
 ``` bash
-$ python3 CIE.py -h                                                                                                     
+$ python3 CIE.py -h
 usage: CIE.py [-h] [-G] [-Q QUANTITY] [-C CHECK]
 
 Dominican Cedula Checker and Generator
@@ -57,4 +57,4 @@ $ python3 CIE.py -G
 
 ## License
 
-This project is licensed under the GNU v3.0 License - see the [LICENSE.md](http://google.com) file for details
+This project is licensed under the GNU v3.0 License - see the [LICENSE.md](https://raw.githubusercontent.com/G4m30ver/CIE/main/LICENSE?token=ASBTTJLAZ2TGHLOCAFMYGRK72GG6S) file for details
