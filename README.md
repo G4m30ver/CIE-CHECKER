@@ -57,4 +57,4 @@ $ python3 CIE.py -G
 
 ## License
 
-This project is licensed under the GNU v3.0 License - see the [LICENSE.md](https://raw.githubusercontent.com/G4m30ver/CIE/main/LICENSE?token=ASBTTJLAZ2TGHLOCAFMYGRK72GG6S) file for details
+This project is licensed under the GNU v3.0 License - see the [LICENSE.md](https://raw.githubusercontent.com/G4m30ver/CIE/main/LICENSE) file for details
